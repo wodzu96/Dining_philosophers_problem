@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wodzu/Projects/CLionProjects/Filozofowie/main.cpp
+iostream
+-
+thread
+-
+unistd.h
+-
+cstdlib
+-
+ncurses.h
+-
+algorithm
+-
+ctime
+-
+
